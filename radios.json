@@ -67,5 +67,10 @@
     "nome": "105 FM",
     "foto": "https://www.radio105fm.com.br/logo.png",
     "link": "https://www.appradio.app:8010/live"
+   },
+   {
+    "nome": "Brasil 2000",
+    "foto": "https://brasil2000fm.com.br/wp-content/uploads/2025/03/cropped-cropped-cropped-cropped-FAVICON-1.jpg",
+    "link": "https://stm11.srvstm.com:6798/stream"
    }
 ]
