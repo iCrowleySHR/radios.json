@@ -7,7 +7,8 @@
   {
     "nome": "Kiss FM",
     "foto": "/img/kiss.png",
-    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac"
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
+    "tocandoAgora": "https://np.tritondigital.com/public/nowplaying?mountName=RADIO_KISSFM&numberToFetch=1"
   },
   {
     "nome": "Aspen FM",
