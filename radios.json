@@ -60,5 +60,10 @@
     "nome": "Alvorada FM",
     "foto": "/img/alvorada.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC_SC"
-  }
+  },
+   {
+    "nome": "105 FM",
+    "foto": "https://www.radio105fm.com.br/logo.png",
+    "link": "https://www.appradio.app:8010/live"
+   }
 ]
