@@ -12,7 +12,8 @@
   {
     "nome": "Aspen FM",
     "foto": "/img/aspen.png",
-    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC.aac"
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC.aac",
+    "tocandoAgora":"https://np.tritondigital.com/public/nowplaying?mountName=ASPEN&numberToFetch=1"
   },
   {
     "nome": "Energia 97",
