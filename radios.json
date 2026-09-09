@@ -1,0 +1,64 @@
+﻿[
+  {
+    "nome": "Antena 1",
+    "foto": "/img/antena.jpg",
+    "link": "https://antenaone.crossradio.com.br/stream/1"
+  },
+  {
+    "nome": "Kiss FM",
+    "foto": "/img/kiss.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac"
+  },
+  {
+    "nome": "Aspen FM",
+    "foto": "/img/aspen.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC.aac"
+  },
+  {
+    "nome": "Energia 97",
+    "foto": "/img/energia.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ENERGIA_97_FM_SC.aac"
+  },
+  {
+    "nome": "Alpha FM",
+    "foto": "/img/Alpha_FM.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_SC.aac"
+  },
+  {
+    "nome": "Dumont FM",
+    "foto": "/img/Dumont.png",
+    "link": "https://api.instant.audio/data/streams/8/dumont-sp",
+    "apiStream": true
+  },
+  {
+    "nome": "89 Rádio Rock FM",
+    "foto": "/img/89radio.jpg",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_SC.aac"
+  },
+  {
+    "nome": "Jovem Pan FM",
+    "foto": "/img/jp.png",
+    "link": "https://api.instant.audio/data/streams/8/jovem-pan",
+    "apiStream": true
+  },
+  {
+    "nome": "MIX FM",
+    "foto": "/img/mix.png",
+    "link": "https://24233.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC"
+  },
+  {
+    "nome": "Band FM",
+    "foto": "/img/band.jpg",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC_SC"
+  },
+  {
+    "nome": "Forbes FM",
+    "foto": "/img/forbes.jpg",
+    "link": "https://ice-br.fabricahost.com.br/play/radioforbes"
+  },
+  {
+    "nome": "Alvorada FM",
+    "foto": "/img/alvorada.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC_SC"
+  }
+]
