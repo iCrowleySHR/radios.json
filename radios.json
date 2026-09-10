@@ -46,7 +46,7 @@
   {
     "nome": "MIX FM",
     "foto": "/img/mix.png",
-    "link": "https://24233.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC"
+    "link": "http://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC"
   },
   {
     "nome": "Band FM",
