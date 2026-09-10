@@ -1,3 +1,5 @@
+Para ver meta dados e links streamworld disponivel
 https://playerservices.streamtheworld.com/api/livestream?station={RADIO}&transports=http%2Chls&version=1.10
 
-para ver meta dados e links streamworld disponivel
+para direcionar para o stremworld disponivwl
+https://playerservices.streamtheworld.com/api/livestream-redirect/{radio}
