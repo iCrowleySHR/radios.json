@@ -91,6 +91,7 @@
    {
     "nome": "Rádio Reggae Brasil",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/reggae-brasil.png",
-    "link": "https://api.instant.audio/data/streams/8/reggae-brasil"
+    "link": "https://api.instant.audio/data/streams/8/reggae-brasil",
+    "apiStream": true
    }
 ]
