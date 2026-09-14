@@ -1,10 +1,5 @@
 ﻿[
   {
-    "nome": "Antena 1",
-    "foto": "/img/antena.jpg",
-    "link": "https://antenaone.crossradio.com.br/stream/1"
-  },
-  {
     "nome": "Kiss FM",
     "foto": "/img/kiss.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
@@ -15,6 +10,11 @@
     "foto": "/img/aspen.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC.aac",
     "tocandoAgora":"https://np.tritondigital.com/public/nowplaying?mountName=ASPEN&numberToFetch=1"
+  },
+  {
+    "nome": "Antena 1",
+    "foto": "/img/antena.jpg",
+    "link": "https://antenaone.crossradio.com.br/stream/1"
   },
   {
     "nome": "Energia 97",
@@ -72,5 +72,15 @@
     "nome": "Brasil 2000",
     "foto": "https://brasil2000fm.com.br/wp-content/uploads/2025/03/cropped-cropped-cropped-cropped-FAVICON-1.jpg",
     "link": "https://stm11.srvstm.com:6798/stream"
+   },
+  {
+    "nome": "Rádio 93 FM",
+    "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/93-fm.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93_SC"
+   },
+  {
+    "nome": "Rádio Melodia",
+    "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/melodia-rj.png",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELODIAFMAAC_SC"
    }
 ]
