@@ -113,5 +113,10 @@
     "nome": "Rádio Transamerica",
     "foto": "https://pbs.twimg.com/profile_images/1849084431690031104/FHPjcZ6F_400x400.jpg",
     "link": "http://02.painelstreaming.com.br:27070/stream/1/"
+   },
+   {
+    "nome": "Rádio Transcontinental",
+    "foto": "https://transcontinentalfm.com.br/wp-content/uploads/2018/10/logo-rodape.png",
+    "link": "https://ice.fabricahost.com.br/transcontinentalsp48"
    }
 ]
