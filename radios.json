@@ -70,7 +70,7 @@
    },
    {
     "nome": "Brasil 2000",
-    "foto": "https://brasil2000fm.com.br/wp-content/uploads/2025/03/cropped-cropped-cropped-cropped-FAVICON-1.jpg",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TMtXMIGYO3MzbpLnEgZQGu-aOSB1Ekzok1_x10onbr1tsMWwH1aGiLk&s=10",
     "link": "https://stm11.srvstm.com:6798/stream"
    },
   {
@@ -111,8 +111,7 @@
    },
    {
     "nome": "Rádio Transamerica",
-    "foto": "https://www.oficinadanet.com.br/media/post/65127/1200/fim-de-uma-era-radio-transamerica-fm-encerra-transmissoes.jpg",
-    "link": "https://api.instant.audio/data/streams/8/transamerica-hits-mococa",
-    "apiStream": true
+    "foto": "https://pbs.twimg.com/profile_images/1849084431690031104/FHPjcZ6F_400x400.jpg",
+    "link": "http://02.painelstreaming.com.br:27070/stream/1/"
    }
 ]
