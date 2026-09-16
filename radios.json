@@ -46,7 +46,7 @@
   {
     "nome": "MIX FM",
     "foto": "/img/mix.png",
-    "link": "http://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC"
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC"
   },
   {
     "nome": "Band FM",
@@ -92,6 +92,27 @@
     "nome": "Rádio Reggae Brasil",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/reggae-brasil.png",
     "link": "https://api.instant.audio/data/streams/8/reggae-brasil",
+    "apiStream": true
+   },
+   {
+    "nome": "Rádio Metropolitana",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:MetropolitanaFMLogoRede.png",
+    "link": "https://ice.fabricahost.com.br/metropolitana985sp"
+   },
+   {
+    "nome": "Rádio Disney",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Radio_Disney_Brasil.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP_SC"
+   },
+   {
+    "nome": "Rádio Nativa",
+    "foto": "https://nativaprudente.com.br/assets/img/nativafm-presidenteprudente.webp",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SP_SC"
+   },
+   {
+    "nome": "Rádio Transamerica",
+    "foto": "https://www.oficinadanet.com.br/media/post/65127/1200/fim-de-uma-era-radio-transamerica-fm-encerra-transmissoes.jpg",
+    "link": "https://api.instant.audio/data/streams/8/transamerica-hits-mococa",
     "apiStream": true
    }
 ]
