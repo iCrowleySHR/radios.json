@@ -1,7 +1,7 @@
 ﻿[
   {
     "nome": "Kiss FM",
-    "foto": "/img/kiss.png",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/images.jpg",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
     "tocandoAgora": "https://np.tritondigital.com/public/nowplaying?mountName=RADIO_KISSFM&numberToFetch=1"
   },
@@ -13,32 +13,32 @@
   },
   {
     "nome": "Antena 1",
-    "foto": "/img/antena.jpg",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/imagesan.jpg",
     "link": "https://antenaone.crossradio.com.br/stream/1"
   },
   {
     "nome": "Energia 97",
-    "foto": "/img/energia.png",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/imddages.jpg",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ENERGIA_97_FM_SC.aac"
   },
   {
     "nome": "Alpha FM",
-    "foto": "/img/Alpha_FM.png",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/imasssges.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_SC.aac"
   },
    {
      "nome": "Rádio Paul McCarrtney",
-     "foto:": "",
+     "foto:": "https://icrowleyshr.github.io/radios.json/img/A-35301-1528423142-9676.jpg",
      "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
    },
    {
       "nome": "Rádio Modão",
-     "foto:": "",
+     "foto:": "https://icrowleyshr.github.io/radios.json/img/radio44524_1578343507.webp",
      "link": "https://centova5.transmissaodigital.com:20024/stream"
    },
    {
      "nome": "Classic Pan SP",
-     "foto": "",
+     "foto": "https://icrowleyshr.github.io/radios.json/img/imagedsdss.png",
      "link": "https://stream.zeno.fm/rtk4pzcome3vv?1790195925067"
    },
   {
