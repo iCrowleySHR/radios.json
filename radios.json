@@ -64,6 +64,11 @@
     "apiStream": true
   },
   {
+    "nome": "Tele 13",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/tele.jpg",
+    "link": "https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio"
+  },
+  {
     "nome": "MIX FM",
     "foto": "/img/mix.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC_SC"
