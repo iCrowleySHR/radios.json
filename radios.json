@@ -9,7 +9,7 @@
     "nome": "Aspen FM",
     "foto": "/img/aspen.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC.aac",
-    "tocandoAgora":"https://np.tritondigital.com/public/nowplaying?mountName=ASPEN&numberToFetch=1"
+    "tocandoAgora": "https://np.tritondigital.com/public/nowplaying?mountName=ASPEN&numberToFetch=1"
   },
   {
     "nome": "Antena 1",
@@ -26,26 +26,26 @@
     "foto": "https://icrowleyshr.github.io/radios.json/img/imasssges.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_SC.aac"
   },
-   {
-     "nome": "Rádio Paul McCarrtney",
-     "foto:": "https://icrowleyshr.github.io/radios.json/img/paul.jpg",
-     "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
-   },
-   {
-      "nome": "Rádio Mundo Livre",
-     "foto:": "https://icrowleyshr.github.io/radios.json/img/mundolivre.jpg",
-     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64_SC"
-   },
-   {
-      "nome": "Rádio Modão",
-     "foto:": "https://icrowleyshr.github.io/radios.json/img/modao.png",
-     "link": "https://centova5.transmissaodigital.com:20024/stream"
-   },
-   {
-     "nome": "Classic Pan SP",
-     "foto": "https://icrowleyshr.github.io/radios.json/img/imagedsdss.png",
-     "link": "https://stream.zeno.fm/rtk4pzcome3vv?1790195925067"
-   },
+  {
+    "nome": "Rádio Paul McCarrtney",
+    "foto:": "https://icrowleyshr.github.io/radios.json/img/paul.jpg",
+    "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
+  },
+  {
+    "nome": "Rádio Mundo Livre",
+    "foto:": "https://icrowleyshr.github.io/radios.json/img/imagesss.jpg",
+    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64_SC"
+  },
+  {
+    "nome": "Rádio Modão",
+    "foto:": "https://icrowleyshr.github.io/radios.json/img/modao.jpg",
+    "link": "https://centova5.transmissaodigital.com:20024/stream"
+  },
+  {
+    "nome": "Classic Pan SP",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/imagedsdss.png",
+    "link": "https://stream.zeno.fm/rtk4pzcome3vv?1790195925067"
+  },
   {
     "nome": "Dumont FM",
     "foto": "/img/Dumont.png",
@@ -83,60 +83,60 @@
     "foto": "/img/alvorada.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC_SC"
   },
-   {
+  {
     "nome": "105 FM",
     "foto": "https://www.radio105fm.com.br/logo.png",
     "link": "https://www.appradio.app:8010/live"
-   },
-   {
+  },
+  {
     "nome": "Brasil 2000",
     "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TMtXMIGYO3MzbpLnEgZQGu-aOSB1Ekzok1_x10onbr1tsMWwH1aGiLk&s=10",
     "link": "https://stm11.srvstm.com:6798/stream"
-   },
+  },
   {
     "nome": "Rádio 93 FM",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/93-fm.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93_SC"
-   },
+  },
   {
     "nome": "Rádio Melodia",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/melodia-rj.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELODIAFMAAC_SC"
-   },
-   {
+  },
+  {
     "nome": "Rádio Gospel FM",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/gospel-fm.png",
     "link": "https://www.appradio.app:8120/live"
-   },
-   {
+  },
+  {
     "nome": "Rádio Reggae Brasil",
     "foto": "https://cdn.instant.audio/images/logos/radiosaovivo-net/reggae-brasil.png",
     "link": "https://api.instant.audio/data/streams/8/reggae-brasil",
     "apiStream": true
-   },
-   {
+  },
+  {
     "nome": "Rádio Metropolitana",
     "foto": "https://play-lh.googleusercontent.com/yTn7JX4xysNEL2GToVlISnMmF3BuF-AIqQhXSrit9SfLYK7JMslg98lGRJPc1TIhkasmDPSJqsS2k7ISwZ4P=w240-h480",
     "link": "https://ice.fabricahost.com.br/metropolitana985sp"
-   },
-   {
+  },
+  {
     "nome": "Rádio Disney",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Radio_Disney_Brasil.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP_SC"
-   },
-   {
+  },
+  {
     "nome": "Rádio Nativa",
     "foto": "https://nativaprudente.com.br/assets/img/nativafm-presidenteprudente.webp",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SP_SC"
-   },
-   {
+  },
+  {
     "nome": "Rádio Transamerica",
     "foto": "https://pbs.twimg.com/profile_images/1849084431690031104/FHPjcZ6F_400x400.jpg",
     "link": "http://02.painelstreaming.com.br:27070/stream/1/"
-   },
-   {
+  },
+  {
     "nome": "Rádio Transcontinental",
     "foto": "https://transcontinentalfm.com.br/wp-content/uploads/2018/10/logo-rodape.png",
     "link": "https://ice.fabricahost.com.br/transcontinentalsp48"
-   }
+  }
 ]
