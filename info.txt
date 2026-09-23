@@ -3,3 +3,6 @@ https://playerservices.streamtheworld.com/api/livestream?station={RADIO}&transpo
 
 para direcionar para o stremworld disponivwl
 https://playerservices.streamtheworld.com/api/livestream-redirect/{radio} //PODE COLOCAR_SC ou .m3u8 ou .aac
+
+bbc radio 2
+https://prod.radio-api.net/stations/details?stationIds=bbcradio2
