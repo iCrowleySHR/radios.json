@@ -26,6 +26,21 @@
     "foto": "/img/Alpha_FM.png",
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_SC.aac"
   },
+   {
+     "nome": "Rádio Paul McCarrtney",
+     "foto:" "",
+     "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
+   },
+   {
+      "nome": "Rádio Modão",
+     "foto:" "",
+     "link": "https://centova5.transmissaodigital.com:20024/stream"
+   },
+   {
+     "nome": "Classic Pan SP",
+     "foto": "",
+     "link": "https://stream.zeno.fm/rtk4pzcome3vv?1790195925067"
+   },
   {
     "nome": "Dumont FM",
     "foto": "/img/Dumont.png",
