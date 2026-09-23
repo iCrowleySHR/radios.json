@@ -32,6 +32,11 @@
      "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
    },
    {
+      "nome": "Rádio Mundo Livre",
+     "foto:": "https://icrowleyshr.github.io/radios.json/img/mundolivre.jpg",
+     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64_SC"
+   },
+   {
       "nome": "Rádio Modão",
      "foto:": "https://icrowleyshr.github.io/radios.json/img/modao.png",
      "link": "https://centova5.transmissaodigital.com:20024/stream"
