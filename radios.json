@@ -47,6 +47,11 @@
     "link": "https://stream.zeno.fm/rtk4pzcome3vv?1790195925067"
   },
   {
+    "nome": "BBC 2",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9ecy2cFxcpLO4fNcdzEILFVkGYde0l3XO1ujMusqdA&s=10",
+    "link": "https://www.radios.com.br/play/playlist/10610/listen-radio.m3u"
+  },
+  {
     "nome": "Dumont FM",
     "foto": "/img/Dumont.png",
     "link": "https://api.instant.audio/data/streams/8/dumont-sp",
