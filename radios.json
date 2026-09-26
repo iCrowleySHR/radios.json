@@ -27,6 +27,11 @@
     "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_SC.aac"
   },
   {
+    "nome": "Rádio Beatles",
+    "foto": "https://icrowleyshr.github.io/radios.json/img/radio17309_1439401504.jpg",
+    "link": "http://www.beatlesradio.com:8000/stream"
+  },
+  {
     "nome": "Rádio Paul McCarrtney",
     "foto": "https://icrowleyshr.github.io/radios.json/img/paul.jpg",
     "link": "https://paul-mccartney-wings-beatles-radio-pauls-best.stream.laut.fm/paul-mccartney-wings-beatles-radio-pauls-best"
