@@ -69,6 +69,12 @@
     "apiStream": true
   },
   {
+    "nome": "BBC Rádio 2",
+    "foto": "https://station-images-prod.radio-assets.com/175/bbcradio2.png",
+    "link": "https://prod.radio-api.net/stations/details?stationIds=bbcradio2",
+    "apiStream": true
+  },
+  {
     "nome": "Tele 13",
     "foto": "https://icrowleyshr.github.io/radios.json/img/tele.jpg",
     "link": "https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio"
